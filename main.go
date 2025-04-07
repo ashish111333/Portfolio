@@ -15,7 +15,7 @@ func main() {
 
 		// Import the program's configuration settings.
 		cfg := config.New(ctx, "")
-		path := "./www"
+		path := "./Mysite/public/"
 		if param := cfg.Get("path"); param != "" {
 			path = param
 		}
