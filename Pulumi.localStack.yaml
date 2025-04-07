@@ -1,0 +1,6 @@
+encryptionsalt: v1:Uy6vwGZZXC4=:v1:JnpH/LGbSuvWYbj1:BxLQQJwCfntgWJiyO7BFS717h6oIlA==
+config:
+  Psite:errorDocument: error.html
+  Psite:indexDocument: index.html
+  Psite:path: ./www
+  aws:region: us-west-2
