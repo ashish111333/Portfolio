@@ -1,7 +1,0 @@
-name: Psite
-description: This project is my  personal porfolio and learnings
-runtime: go
-config:
-  pulumi:tags:
-    value:
-      pulumi:template: static-website-aws-go

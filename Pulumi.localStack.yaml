@@ -1,6 +1,0 @@
-encryptionsalt: v1:Uy6vwGZZXC4=:v1:JnpH/LGbSuvWYbj1:BxLQQJwCfntgWJiyO7BFS717h6oIlA==
-config:
-  Psite:errorDocument: 404.html
-  Psite:indexDocument: index.html
-  Psite:path: ./Mysite/public
-  aws:region: ap-south-1
